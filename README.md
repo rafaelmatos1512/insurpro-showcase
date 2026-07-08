@@ -62,12 +62,9 @@ Trabalho no InsurPro pela IntegraTech, mais focado em back-end e banco de dados:
 - Escrevo e otimizo consultas SQL no PostgreSQL para relatórios, KPIs e diagnóstico de dados
 - Criei scripts de correção e migração de dados de produção (apólices, comissões, usuários)
 - Desenvolvo endpoints REST na API Express com TypeScript e Drizzle ORM
+- Desenvolvo telas e componentes no front-end com React, TypeScript, TailwindCSS e shadcn/ui
 - Montei automações no n8n integrando o sistema ao WhatsApp
 - Acompanho deploys via Docker e logs de produção
-
-## Screenshots
-
-Em breve — vou subir capturas do sistema com dados de demonstração.
 
 ## Contato
 
